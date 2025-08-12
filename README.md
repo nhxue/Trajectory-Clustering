@@ -11,3 +11,5 @@ A sample of the trajectories analyzed, along with the fixes, is displayed below:
 ![image alt](https://github.com/Alphax22/Trajectory-Clustering/blob/14a752d454e787bc89e3783cb75bda7b2f8ccdf4/figures/9-means_subplots.png)
 
 ## DBSCAN
+
+![image alt](https://github.com/Alphax22/Trajectory-Clustering/blob/d5ac65194238ca79765a2583dd4550ce12d0ee19/figures/DBSCAN_subplots.png)
